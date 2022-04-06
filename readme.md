@@ -720,4 +720,6 @@ h1, h2, p {
 
 # What are the differences between relative and absolute in CSS?
 => position: relative places an element relative to its current position without changing the layout around it, whereas position: absolute places an element relative to its parent's position and changing the layout around it.
+![relative-absolute](https://user-images.githubusercontent.com/80479635/161960913-e1a86a1a-db65-42eb-a144-24aafd14752b.jpg)
+![relative-absolute1](https://user-images.githubusercontent.com/80479635/161960927-ed567b95-cf2b-4afc-8b1d-769e0a1310b1.png)
 
